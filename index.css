@@ -1,0 +1,12 @@
+body{
+background-image:url(https://i.ytimg.com/vi/CqQPx7zmMX0/maxresdefault.jpg);
+size: 1500px;
+text-align: center;
+color: white;
+font-size: 20px;
+}
+img{
+height: 200px;
+border: solid white 8px;
+border-radius: 15px;
+}
