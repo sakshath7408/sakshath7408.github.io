@@ -1,0 +1,20 @@
+h1    	{
+	font-size: 45px ;
+}
+body	{
+	text-align: center ;
+	background-image: url(https://unsplash.com/photos/5J1bHRX1fNw/download?force=true);
+	color: white ;
+}
+img		{
+	width: 450px ;
+	border: solid white 8px ;
+	box-shadow: 10px 10px 15px black ;
+}
+p 		{
+	margin: 30px ;
+	border: solid white 5px ;
+	padding: 10px ;
+	border-radius: 30px ;
+	font-size: 20px ;
+}
