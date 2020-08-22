@@ -1,0 +1,54 @@
+body	{
+	margin: 100px ;
+	border: solid black 5px ;
+	padding: 20px ;
+	border-radius: 25px ;
+	font-size: 30px ;
+}
+p {
+	text-align: center ;
+	border: solid black 5px ;
+	border-radius: 20px ;
+	padding: 10px ;
+}
+h1	{
+	font-size: 50px ;
+	background-color: #654321 ;
+	color: white ;
+	width: 250px ;
+	text-align: center; ;
+	border-radius: 20px ;
+}
+.green	{	
+	background-color: #00FF00 ;
+	padding : 10px ;
+	border-radius: 25px ;
+	color : white ;
+	font-size: 30px ;
+	width: 200px ;
+	border: solid black 5px;
+}
+#violet	{
+	background-color: #DA70D6 ;
+	color: white ;
+}
+#indigo	{
+	background-color: #9932CC ;
+	color: white ;
+}
+#blue	{
+	background-color: #0000FF ;
+	color: white ;
+}
+#yellow	{
+	background-color: #FFD700 ;
+	color: white ;
+}
+#orange	{
+	background-color: #FFA500 ;
+	color: white ;
+}
+#red	{
+	background-color: #FF0000 ;
+	color: white ;
+}
