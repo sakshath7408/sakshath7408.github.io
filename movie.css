@@ -1,0 +1,120 @@
+body	{
+	margin: 0px ;
+}
+.part-one	{
+	max-width: 100% ;
+	width:100vh;
+	background: url(https://wallsdesk.com/wp-content/uploads/2016/11/Angry-Birds-HD.jpg);
+	background-size: cover ;
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+.part-two	{
+	max-width: 100% ;
+	height: 120vh ;
+	background: url(https://www.blurayauthority.com/wp-content/uploads/2019/11/angrybirds2hd_pub.jpg);
+	background-size: cover ;
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+.part-three	{
+	background: url(https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2016/02/03135724/AB2_Clansbanners_1920x750_BG.jpg);
+	max-width: 100%;
+	height: 100vh ;
+	background-size: cover ;
+	background-position: center center;
+}
+.part-three >img	{
+	height: 612;
+	width:596;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 50px ;
+}
+.dream	{
+	float:right;
+	padding-top: 150px ;
+	padding-right: 50px ;
+}
+.dream >img	{
+	width: 264px ;
+	height:175px;
+}
+.name	{
+	float: left;
+	padding: 14px 16px ;
+	font-family: 'Black And White Picture', sans-serif;
+	font-weight: 1000 ;
+	padding-left: 50px ;
+	cursor:crosshair;
+	font-size: 30px ;
+}
+ul 		{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: white
+}
+li {
+float: right;
+padding-right: 30px;
+}
+
+li a {
+display: block;
+color: black;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-family: 'Acme', sans-serif;
+font-size: 25px;
+}
+
+li a:hover {
+background-color: #111;
+color: white;
+border-color: red;
+}
+
+.trailer {
+align-items: center;
+padding: 50px;
+}
+
+.part-1 {
+background-color: #2980b9;
+}
+
+.part-2 {
+background-color: #16a085;
+}
+
+.about > h1{
+font-family: 'Montserrat', sans-serif;
+text-align: center;
+margin-top: 0px;
+padding-top: 20px
+}
+
+.about > p {
+font-family: 'Roboto', sans-serif;
+font-size: 20px;
+padding: 50px;
+text-align: center;
+padding-top: 10px;
+margin-bottom: 0px;
+}
+
+.footer {
+background-color: #34495e;
+}
+
+.footer > p {
+padding: 15px;
+text-align: center;
+font-family: 'Roboto', sans-serif;
+margin: 0px;
+font-size: 20px;
+}
